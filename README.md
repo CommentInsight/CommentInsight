@@ -6,6 +6,10 @@ Easy to Search&amp;Count&amp;Clean the comments in your SourceCode.  源代码�
 - Count comment lines in source files;
 - Clean comments;
 
+## BetaVersion
+- Support Windows 7,8,10 +
+- .Net Freamwork 4.5.2
+
 ## screenshot 截图
 
 ![image](pic/01.main.png)	
