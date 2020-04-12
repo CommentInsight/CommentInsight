@@ -1,0 +1,1 @@
+	char e = '\"';    //"single line commnet	
